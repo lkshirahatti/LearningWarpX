@@ -8,4 +8,4 @@ Primary WarpX contributors are with LBNL, LLNL, CEA-LIDYL, SLAC, DESY, CERN, Hel
 We acknowledge all WarpX contributors.
 
 
-ARTEMIS (Adaptive mesh Refinement Time-domain ElectrodynaMics Solver) is a finite-difference time-domain (FDTD) implementation for Maxwell's equations that has been adapted to conditions found in microelectronic circuitry\url{https://ccse.lbl.gov/Research/Microelectronics/}
+ARTEMIS (Adaptive mesh Refinement Time-domain ElectrodynaMics Solver) is a finite-difference time-domain (FDTD) implementation for Maxwell's equations that has been adapted to conditions found in microelectronic circuitry \url{https://ccse.lbl.gov/Research/Microelectronics/}
